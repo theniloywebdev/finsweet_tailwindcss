@@ -26,6 +26,7 @@ tailwind.config = {
           questionPcolor: 'rgba(37, 5, 242, 0.87)',
           cardOcolor: 'rgba(28, 30, 83, 0.8)',
           cardOAcolor: 'rgba(28, 30, 83, 0.24)',
+          formBcolor: 'rgba(227, 224, 224, 0.5)',
          
          
         },
